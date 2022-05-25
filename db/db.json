@@ -209,7 +209,7 @@
       "category": "Игры и софт"
     },
     {
-      "title": "Игра новая",
+      "title": "Mafia 2",
       "price": 3990,
       "sale": false,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1023840682.jpg",
@@ -218,7 +218,7 @@
       "id": 24
     },
     {
-      "title": "Игра новая",
+      "title": "Mafia",
       "price": 3990,
       "sale": false,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1023840682.jpg",
@@ -227,7 +227,7 @@
       "id": 25
     },
     {
-      "title": "Игра новая",
+      "title": "Mafia",
       "price": 3990,
       "sale": false,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1023840682.jpg",
@@ -236,13 +236,40 @@
       "id": 26
     },
     {
-      "title": "Игра новая",
+      "title": "Mafia",
       "price": 3990,
       "sale": false,
       "img": "https://cdn1.ozone.ru/multimedia/c400/1023840682.jpg",
       "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1023849642.jpg",
       "category": "Игры и софт",
       "id": 27
+    },
+    {
+      "title": "Mafia",
+      "price": 3990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1023840682.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1023849642.jpg",
+      "category": "Игры и софт",
+      "id": 28
+    },
+    {
+      "title": "Mafia",
+      "price": 3990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1023840682.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1023849642.jpg",
+      "category": "Игры и софт",
+      "id": 29
+    },
+    {
+      "title": "Mafia",
+      "price": 3990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1023840682.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1023849642.jpg",
+      "category": "Игры и софт",
+      "id": 30
     }
   ]
 }
