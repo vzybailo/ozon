@@ -7,8 +7,10 @@ const search = () => {
     const searchWrapper = document.querySelector('.search-wrapper_input')
     const salesBtn = document.querySelector('.filter-check_checkbox')
     const checkBox = document.querySelector('.filter-check_checkmark')
-
-    salesBtn.addEventListener('click', () => {  // поиск по кнопке "Акция"
+    
+// поиск по кнопке "Акция"
+/*
+    salesBtn.addEventListener('click', () => {  
         const check = salesBtn.value
         
         if(salesBtn.checked) {
@@ -25,8 +27,8 @@ const search = () => {
         }
 
     })
+    */
 
-    
     searchWrapper.addEventListener('input', (event) => {  // поиск в поисковой строке
         const value = event.target.value
         

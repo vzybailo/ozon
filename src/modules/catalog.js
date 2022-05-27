@@ -24,6 +24,7 @@ const catalog = () => {
                 
                 getData().then((data) => {
                     renderGoods(categoryFilter(data, text ));
+                    
                 })
             })
         })
